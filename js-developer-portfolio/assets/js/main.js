@@ -4,8 +4,9 @@ function updateProfileInfo(profileData) {
     photo.src = profileData.photo
     photo.alt = profileData.name
 
-    const name = document.getElementById('profile.name')
-    name.innerText = profileData.name
+    //passando dinamicamento as informações de nome, trabalho, localização... vindo do arquivo json para o HTML
+    const name = document.getElementById('profile.name') //usando o id
+    name.innerText = profileData.name //buscando em profileData o nome e passando como texto com innertext
 
     const job = document.getElementById('profile.job')
     job.innerText = profileData.job
@@ -15,11 +16,11 @@ function updateProfileInfo(profileData) {
 
     const phone = document.getElementById('profile.phone')
     phone.innerText = profileData.phone
-    phone.href = `tel:${profileData.phone}`
+    phone.href = `tel:${profileData.phone}` //passando por referencia o modelo do telefone 
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
-    email.href = `mailto:${profileData.email}`
+    email.href = `mailto:${profileData.email}` //passando por referencia o modelo do email
 }
 
 function updateSoftSkills(profileData) {
