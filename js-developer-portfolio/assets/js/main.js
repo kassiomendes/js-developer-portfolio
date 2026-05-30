@@ -25,7 +25,7 @@ function updateProfileInfo(profileData) {
 
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
-    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('') //buscando em profileData e passando como texto html, transformando o conteudo json tem string com map e .join
 }
 
 function updateHardSkills(profileData) {
