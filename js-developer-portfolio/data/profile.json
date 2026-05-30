@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/js.png"
       },
       {
         "name": "Java",
@@ -17,31 +17,31 @@
       },
       {
         "name": "C#",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/csharp.png"
       },
       {
         "name": "PHP",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/php.png"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/php.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/python.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/mysql.png"
       },
       {
         "name": "Github",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/github.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/kassiomendes/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/kassiomendes/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/html.png"
       }
     ],
     "softSkills": [
