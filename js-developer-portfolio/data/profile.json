@@ -58,13 +58,23 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Colaboração em Projeto de Plataforma Networking Empresarial ",
+      "url": "https://github.com/rafaelarreis/CoCreationMap",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criando Jogo de Cartas Yu-Gi-Oh",
+      "url": "https://github.com/kassiomendes/desafio-cartas-yu-gi-oh",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de página de portfolio",
+      "url": "https://github.com/kassiomendes/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de Pokedex",
+      "url": "https://github.com/kassiomendes/kassio-pokedex",
       "github": true
     }
   ],
